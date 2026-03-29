@@ -11,13 +11,16 @@
 </div>
 
 ---
+<div align="center">
+  
+# 👋 OLÁ, EU SOU O FABIANO.
+  
+</div>
 
-# 👋 Olá, eu sou o Fabiano Farias
-
-💻 **Desenvolvedor Front-end**  
-🚀 Focado em **React** e **TypeScript**  
-📚 Sempre aprendendo novas tecnologias  
-📫 **Contato:** ffariasdl@email.com  
+- 💻 **Desenvolvedor Front-end**  
+- 🚀 Focado em **React** e **TypeScript**  
+- 📚 Sempre aprendendo novas tecnologias  
+- 📫 **Contato:** ffariasdl@email.com  
 
 ---
 
@@ -61,11 +64,14 @@
 
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+
 Obrigado por visitar meu perfil!
+
+</div>
