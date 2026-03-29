@@ -92,5 +92,3 @@
 ✨ Obrigado por visitar meu perfil! ✨
 
 </div>
-
-</div>
