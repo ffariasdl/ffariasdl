@@ -20,7 +20,7 @@
 - 💻 **Desenvolvedor Front-end**  
 - 🚀 Focado em **React** e **TypeScript**  
 - 📚 Sempre aprendendo novas tecnologias  
-- 📫 **Contato:** ffariasdl@email.com  
+
 
 ---
 
@@ -38,6 +38,10 @@
 
 <a href="https://www.instagram.com/ffariasdl/">
   <img src="https://img.shields.io/badge/Instagram-Pessoal-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" />
+</a>
+
+<a href="mailto:ffariasdl@email.com">
+  <img src="https://img.shields.io/badge/Email-Contato-0078D4?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
 
 </div>
