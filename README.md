@@ -70,15 +70,6 @@
 
 <br>
 
-<!-- STATS -->
-<div>
-
-## 📊 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ffariasdl&show_icons=true&theme=radical&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffariasdl&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
 
 <br>
 
